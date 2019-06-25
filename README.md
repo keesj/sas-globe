@@ -2,9 +2,18 @@
 
 The SaS Globe project aims at creating a physical globe (a spherical model of Earth) that can follow the trip of a vessel (a sailing ship in this case).
 
+![](img/P1010680.JPG)
+
+
+
 ![](img/concept.gif)
 
 The idea it to mechanize an existing off the self globe to pinpoint the location of interest on the surface. The design calls for a way to turn the globe around it's axis to move the area of interested towards the viewer and show a pointer at the correct elevation.
+
+https://youtu.be/XW6XudH7p7o
+
+
+https://youtu.be/qj2XHyfu8BA
 
 [Don't be shy donate some money](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=WPQZVQW5XM5S8&item_name=Sem+at+Sea+2019&currency_code=EUR&source=url) for [Sem's adventure](https://www.sem-at-sea.nl/) 
 
