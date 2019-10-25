@@ -15,7 +15,7 @@ https://youtu.be/XW6XudH7p7o
 
 https://youtu.be/qj2XHyfu8BA
 
-[Don't be shy donate some money](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=WPQZVQW5XM5S8&item_name=Sem+at+Sea+2019&currency_code=EUR&source=url) for [Sem's adventure](https://www.sem-at-sea.nl/) 
+[SUPPORT SEM with some donations](https://www.gofundme.com/f/pvhwza-sem-at-sea-15-jarige-scholier-en-avonturier) for [Sem's adventure](https://www.sem-at-sea.nl/) 
 
 # Hardware
 
